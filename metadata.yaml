@@ -1,5 +1,8 @@
 _repo: The-Heritage-of-the-Sioux_1299
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bower, B. M.
@@ -14,6 +17,8 @@ description: Pioneering Western writer Bertha Muzzy Bower gained critical acclai
   by bringing a unique female perspective to her tales of ranch life. In The Heritage
   of the Sioux, Bower brings a similarly empathic perspective to her fictionalized
   account of one of the most storied Native American tribes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1299#The-Heritage-of-the-Sioux
 gutenberg_bookshelf: Western
 gutenberg_issued: '1998-05-01'
 gutenberg_type: Text
